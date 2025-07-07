@@ -24,7 +24,7 @@ rad.json
 # Terraform provider binaries and state files
 *.terraform/
 *.tfstate
-*.tfstate.*
+# *.tfstate.*
 # *.tfvars
 *.terraform.lock.hcl
 terraform.tfstate.backup
